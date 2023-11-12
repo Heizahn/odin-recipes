@@ -1,0 +1,1 @@
+El proyecto consiste en crear una página web sobre recetas utilizando únicamente HTML. ¿Necesitas ayuda con algún aspecto en particular del desarrollo?
